@@ -1,4 +1,4 @@
 # my-first-binder
-the name says it all  
+the name says it all
 
-https://github.com/zbjoko/my-first-binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zbjoko/my-first-binder/HEAD)
